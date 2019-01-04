@@ -7,5 +7,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l3oss123456/l3oss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/l3oss123456/l3oss/issues"
+  },
+  "homepage": "https://github.com/l3oss123456/l3oss#readme",
   "description": ""
 }
